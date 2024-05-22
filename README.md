@@ -1,6 +1,7 @@
 # geny
 
 (WIP.)
+( The document is coming soon, sorry, I'm so busy :) )
 
 [![Package Version](https://img.shields.io/hexpm/v/geny)](https://hex.pm/packages/geny)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/geny/)
