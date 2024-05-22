@@ -4,10 +4,10 @@ version = "0.0.1"
 # Fill out these fields if you intend to generate HTML documentation or publish
 # your project to the Hex package manager.
 #
-# description = ""
-# licences = ["Apache-2.0"]
-# repository = { type = "github", user = "username", repo = "project" }
-# links = [{ title = "Website", href = "https://gleam.run" }]
+description = "Error handling library for gleam language"
+licences = ["MIT"]
+repository = { type = "github", user = "jedsek", repo = "geny" }
+links = [{ title = "Geny", href = "https://hexdocs.pm/geny" }]
 #
 # For a full reference of all the available options, you can have a look at
 # https://gleam.run/writing-gleam/gleam-toml/.
