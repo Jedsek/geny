@@ -38,9 +38,10 @@ import geny/ext.{context, from, to_string}
 import gleam/io
 
 let result = Error("This is a error") |> from  //  <-- This convert/wrap normal `Result` into `GResult`  
-let result = result |> context("The context A")
-let result = result |> context("The context B")
-let result = result |> context("The context C")
+let result = result 
+  |> context("The context A") 
+  |> context("The context B")
+  |> context("The context C")
 
 case result {
   Ok(_) -> io.println("Good ok!")
